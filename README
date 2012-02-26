@@ -1,0 +1,7 @@
+Author : Suharsh Sivakumar
+
+This program uses a brute force recursive algorithm to solve any given sudoku puzzle and notify the user if the puzzle is unsolvable. It also store puzzles to a file to build up a collection of puzzles as the user uses it more.
+
+Goals :
+- to practice programming in C.
+- to practice reading and writing from file.
